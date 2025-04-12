@@ -1,2 +1,2 @@
-# react_project_01
-react crud project
+# mern_project_01
+mern stack
